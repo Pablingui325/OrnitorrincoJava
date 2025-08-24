@@ -1,5 +1,5 @@
 
-package ornitorrinco;
+package ornitorrinco.entidades;
 
 public interface Pata {
     

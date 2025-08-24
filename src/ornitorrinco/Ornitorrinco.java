@@ -1,5 +1,5 @@
 
-package ornitorrinco.entidades;
+package ornitorrinco;
 
 public class Ornitorrinco {
 
